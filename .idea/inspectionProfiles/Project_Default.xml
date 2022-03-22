@@ -1,0 +1,15 @@
+<component name="InspectionProjectProfileManager">
+  <profile version="1.0">
+    <option name="myName" value="Project Default" />
+    <inspection_tool class="PyUnresolvedReferencesInspection" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="ignoredIdentifiers">
+        <list>
+          <option value="mydir.mypythonpackage.dice.roll_dice" />
+          <option value="mydir.mypythonpackage.sample.guess_number" />
+          <option value="mydir.mypythonpackage.test_sample.*" />
+          <option value="mydir.mypythonpackage.sample.*" />
+        </list>
+      </option>
+    </inspection_tool>
+  </profile>
+</component>
